@@ -2,7 +2,7 @@
 ```{=html}
 <!-- Add the generated banner image to this repository at assets/saniya-banner.png -->
 ```
-`<img src="assets/saniya-banner.png" width="100%" alt="Saniya Patra — Frontend and Full-Stack Developer" />`{=html}
+`<img src="assets/saniya-banner.png" width="100%" alt="Saniya Patra — Frontend and Full-Stack Developer"/>`{=html}
 
 # Saniya Patra
 
