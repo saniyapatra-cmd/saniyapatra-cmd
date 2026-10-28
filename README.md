@@ -1,8 +1,7 @@
-::: {align="center"}
-```{=html}
-<!-- Add the generated banner image to this repository at assets/saniya-banner.png -->
-```
-`<img src="assets/saniya-banner.png" width="100%" alt="Saniya Patra — Frontend and Full-Stack Developer"/>`{=html}
+
+<p align="center">
+  <img src="./assets/saniya-banner.png" width="100%" alt="Saniya Patra Banner">
+</p>
 
 # Saniya Patra
 
